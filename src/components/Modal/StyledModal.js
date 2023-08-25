@@ -27,7 +27,7 @@ export const ContenStyled = Styled.div`
 
 export const ImageStyled = Styled.img`
   max-width: 100%;
-  height: auto;
+  max-height: 90%;
 `;
 
 export const BtnStyled = Styled.button`position: absolute;
